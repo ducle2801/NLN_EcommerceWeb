@@ -51,3 +51,11 @@ CVC: 567
 
 ```
 # NLN_EcommerceWeb
+
+![image](https://github.com/ducle2801/NLN_EcommerceWeb/assets/150829102/775298df-3263-4d68-9e15-c5b6c0f58779)
+
+![image](https://github.com/ducle2801/NLN_EcommerceWeb/assets/150829102/48b745c0-a9ca-4ea1-bb29-83239a7adeff)
+
+![image](https://github.com/ducle2801/NLN_EcommerceWeb/assets/150829102/cbc00def-66b5-4e66-af12-eebd96f51a7c)
+
+
